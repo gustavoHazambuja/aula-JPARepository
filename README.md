@@ -6,7 +6,7 @@
 
 Esse projeto é  uma aplicação backend e ela consiste em um pequeno sistema (API REST) de gerenciamento de usuários, como filtrar por nome, salário e adicionar um usuário.
 
-O objetivo do projeto foi para manter boa práticas com o framework Spring Boot
+O objetivo do projeto foi para manter boa práticas com o framework Spring Boot.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/gustavoHazambuja/Images/blob/main/UserJPA/User.png)
