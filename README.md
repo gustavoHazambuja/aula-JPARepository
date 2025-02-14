@@ -20,7 +20,7 @@ O objetivo do projeto foi para manter boa práticas com o framework Spring Boot.
 ## Back end
 - Java
 - Spring Boot
-- JPA
+- JPA / Hibernate
 - Maven
 ## Implantação em produção
 - Banco de dados: Postgresql
